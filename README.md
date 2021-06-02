@@ -7,6 +7,12 @@ Daily updates of COVID-19 vaccine distribution in Texas.
 
 [Texas Department of State Health Services][DSHS]
 
+## Changes to template:
+
+1. Change to remove header
+2. Change to remove footer
+3. Remove #fafafa background color tag
+
 ## Contact
 
 [Spencer Woody]  
