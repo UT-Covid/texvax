@@ -696,17 +696,6 @@ This page is current as of `r lubridate::today()`
 
 <!-- We download **vaccine administration data by ZIP code** from the website of the [Texas Department of State Health Services][DSHS].  To calculate vaccine coverage, we divide the number of people in a ZIP code with at least one dose by the total ZIP code population.  We use the Census Bureau's [2019 American Community Survey][ACS] to access data for population by ZIP code. -->
 
-## Credits
-
-Spencer Woody, Emily Javan, Kaitlyn Johnson, Remy Pasco, Maureen Johnson-León, Michael Lachmann, Spencer J. Fox, and Lauren Ancel Meyers
-
-[UT-Austin COVID-19 Modeling Consortium](https://covid-19.tacc.utexas.edu)
-
-## Contact
-
-[Spencer Woody](https://spencerwoody.github.io)  
-Email to `spencer.woody [at] utexas [dot] edu`
-
 Download the code and data [here][ghdata].
 
 [ghdata]: https://github.com/spencerwoody/texvax/tree/main/
